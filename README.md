@@ -78,7 +78,7 @@ pip install -r requirements.txt
 streamlit run app/main.py
 ```
 
-Open `http://localhost:8501` in your browser. No API key required.
+Open `http://localhost:8501` in your browser. 
 
 Optional: copy `.env.example` to `.env` to customize models or chunk settings.
 
@@ -125,10 +125,4 @@ Research Assistant/
 | `CHUNK_OVERLAP` | `200` | Overlap between chunks |
 | `TOP_K` | `6` | Retrieved chunks per query |
 
-## Cost
 
-**$0** — everything runs locally. The only requirement is disk space for the Ollama models (~2–3 GB total).
-
-## License
-
-MIT
