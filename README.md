@@ -1,6 +1,6 @@
 # Research Paper Assistant
 
-A RAG-powered web app for querying research papers. Upload PDFs, ask natural-language questions, and get answers backed by inline citations — **fully free and local** using [Ollama](https://ollama.com).
+A RAG-powered web app for querying research papers. Upload PDFs, ask natural-language questions, and get answers backed by inline citations using [Ollama](https://ollama.com).
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-red)
